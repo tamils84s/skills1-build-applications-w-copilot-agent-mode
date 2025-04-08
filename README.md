@@ -28,8 +28,8 @@ In this exercise, you will:
 
 1. Right-click **Copy Exercise** and open the link in a new tab.
 
-   <a id="copy-exercise" href="https://github.com/new?template_owner=ningweinw&template_name=build-applications-w-copilot-agent-mode&owner=%40me&name=skills-build-applications-w-copilot-agent-mode&description=Exercise:+Build+my+application+with+Copilot+agent+mode&visibility=public">
-      <img src="https://img.shields.io/badge/📠_Copy_Exercise-008000" height="25pt"/>
+   <a id="copy-exercise">
+      <img src="https://img.shields.io/badge/📠_Copy_Exercise-AAA" height="25pt"/>
    </a>
 
 2. In the new tab, most of the fields will automatically fill in for you.
@@ -46,8 +46,8 @@ In this exercise, you will:
 
 4. Click **Start Exercise**. Follow the step-by-step instructions and feedback will be provided as you progress.
 
-   <a id="start-exercise">
-      <img src="https://img.shields.io/badge/🚀_Start_Exercise-AAA" height="25pt"/>
+   <a id="start-exercise" href="https://github.com/tamils84s/skills1-build-applications-w-copilot-agent-mode/issues/1">
+      <img src="https://img.shields.io/badge/🚀_Start_Exercise-008000" height="25pt"/>
    </a>
 
 > [!IMPORTANT]
